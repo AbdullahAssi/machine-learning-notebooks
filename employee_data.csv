@@ -1,0 +1,22 @@
+EmployeeID,Name,Age,Department,Salary,JoiningDate,PerformanceScore
+1,John Doe,28,HR,50000,01-06-19,4
+2,Jane Smith,,IT,,15-03-18,5
+3,Alice Brown,,IT,70000,20-01-20,3
+4,Bob Johnson,45,Finance,80000,30-09-15,2
+5,Charlie Black,30,HR,,10-02-21,4
+6,Emily White,38,IT,72000,12-11-17,5
+7,David Green,50,Finance,90000,25-02-16,3
+8,,29,HR,55000,10-05-21,3
+9,George Blue,40,IT,75000,15-07-19,4
+10,Helen Gray,35,Finance,85000,20-08-18,5
+11,Chris Red,27,IT,62000,15-09-20,4
+12,Karen Yellow,42,HR,58000,,2
+13,Tommy Black,33,Finance,72000,10-03-19,4
+14,Jessica White,31,IT,,30-01-21,3
+15,Nina Gray,26,HR,49000,22-04-22,5
+16,Oscar Brown,47,Finance,88000,12-12-18,2
+17,Susan Green,29,IT,71000,,4
+18,Max Blue,36,Finance,77000,05-11-20,3
+19,Linda Red,34,HR,64000,25-07-19,5
+20,Kevin Black,39,IT,74000,05-03-21,4
+21,Bob Johnson,45,Finance,80000,30-09-15,2
